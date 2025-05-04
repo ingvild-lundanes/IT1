@@ -1,0 +1,22 @@
+[
+    {
+        "fagnavn": "IT1",
+        "lærer": "Ingvild",
+        "elever": 29
+    },
+    {
+        "fagnavn":"IT2",
+        "lærer": "Kjeld",
+        "elever": 26
+    },
+    {
+        "fagnavn": "R1",
+        "lærer": "Otto",
+        "elever": 28
+    },
+    {
+        "fagnavn": "S2",
+        "lærer": "Sundari",
+        "elever": 25
+    }
+]
